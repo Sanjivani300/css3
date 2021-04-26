@@ -1,0 +1,161 @@
+/* #text{
+    width:500px;
+    height:300px;
+    border: 1px solid black;
+    text-transform: capitalize;
+    line-height:30px ;
+}      */
+
+/* #text{
+    width:500px;
+    height:300px;
+    border: 1px solid black;
+    text-indent: 50px;
+}   */
+
+/* #text{
+    width:500px;
+    height:300px;
+    border: 1px solid black;
+    letter-spacing: 10px;
+}            */
+
+/* #text{
+    width:500px;
+    height:300px;
+    border: 1px solid black;
+    word-spacing: 10px;
+}            */
+
+/* #text{
+    width:500px;
+    height:300px;
+    border: 1px solid black;
+    white-space:nowrap;
+} */
+
+/* #text{
+    width:200px;
+    height:300px;
+    border:1px solid black;
+    word-wrap:break-word ;
+}    */
+
+/* #shadow{
+    font-size: 70px;
+}    */
+
+/* #shadow{
+    font-size: 70px;
+    text-shadow: 5px 10px 5px lightslategrey;
+}  */
+
+/* #shadow{
+    font-size: 70px;
+    text-shadow: 8px 10px 5px lightslategrey;
+}  */
+
+/* #text{
+    width:500px;
+    border:1px solid black;
+}    */
+
+/* #text{
+    width:500px;
+    border:1px solid black;
+    writing-mode: vertical-lr;
+}      */
+
+/* #text{
+    width:500px;
+    border:1px solid black;
+    writing-mode: vertical-rl;
+}   */
+
+/* a{
+    text-decoration: none;
+} 
+
+a:link{
+    color:yellowgreen;
+}   
+
+a:visited{
+    color:blue;
+}
+
+a:hover{
+    color:purple;
+}
+
+a:active{
+    color:red;
+}                    */
+
+/*  h1{
+    font-weight:200px;
+}
+p{
+    font-size: 30px;
+}                   */
+
+/* h1{
+    font-weight:200px;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+}              */
+
+/* h1{
+    font-weight:300;
+}
+p{
+    font-size: 20px;
+    font-weight: regular;
+    font-style:italic;
+}  */
+
+/* h1{
+    font-weight:300;
+}
+p{
+    font-variant: small-caps;
+    font-size:20px;
+} */
+
+/* h1{
+    font-family: 'Freckle Face', cursive;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size:25px;
+    font-style:italic;
+}      */
+
+/* @font-face{
+    font-family:abc ;
+    src:url('fonts CSS/AlexBrush-Regular.ttf')
+}
+h1{
+    font-family:abc;
+}
+p{
+    font-family: abc;
+    font-size:20px;
+}      */
+
+/* #parent{
+    border:1px solid red;
+    width:800px;
+}  */
+
+#parent{
+    border:1px solid red;
+    width:50vh;
+}
+#child{
+    border:1px solid blue;
+    width:50%;
+}
+
